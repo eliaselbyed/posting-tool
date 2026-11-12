@@ -1,0 +1,6 @@
+{
+  "name": "OmniPost Studio",
+  "description": "Modern dark-mode short-form video cross-posting dashboard for YouTube Shorts, Instagram Reels, TikTok, and Facebook Reels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
